@@ -1,16 +1,20 @@
 # Backrooms Escape
 
-A first-person browser horror game set in the Backrooms. Find the code. Reach the exit. Don't let it catch you.
+# <img width="1249" height="735" alt="Screenshot 2026-03-11 at 6 40 47 AM" src="https://github.com/user-attachments/assets/54e5cf6b-5610-4921-a19f-037ca34793e1" />
+
+
+A first-person browser
+ horror game set in the Backrooms. Find the code. Reach the exit. Don't let it catch you!
 
 ## Play
 
-Open `backrooms-escape.html` in any modern browser — no server, no build step required.
+Open `backrooms-escape.html` in any modern browser.
 
 ## Objective
 
-1. Explore the maze and find the **CODE** — a note pinned to a wall somewhere in the level.
-2. Once you have it, locate the **EXIT** door and escape.
-3. Something is hunting you the entire time.
+1. Explore the maze and find the exit code on a note pinned to a wall somewhere in the level.
+2. Once you have it, locate the exit door and escape.
+3. Something is hunting you the entire time...
 
 ## Controls
 
@@ -19,7 +23,6 @@ Open `backrooms-escape.html` in any modern browser — no server, no build step 
 | `W A S D` / Arrow Keys | Move |
 | Mouse | Look |
 | `ESC` | Pause / Resume |
-| Click | Lock mouse pointer / Resume |
 
 ## Features
 
