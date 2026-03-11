@@ -1,6 +1,6 @@
 # Backrooms Escape
 
-<img width="1249" height="735" alt="Screenshot 2026-03-11 at 6 40 47 AM" src="https://github.com/user-attachments/assets/54e5cf6b-5610-4921-a19f-037ca34793e1" />
+# <img width="1249" height="735" alt="Screenshot 2026-03-11 at 6 40 47 AM" src="https://github.com/user-attachments/assets/54e5cf6b-5610-4921-a19f-037ca34793e1" />
 
 
 A first-person browser
